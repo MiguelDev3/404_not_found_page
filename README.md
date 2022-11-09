@@ -38,17 +38,17 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see the demo in my website following this [link](https://maik-dev.com/simplesites/404-page-not-found/index.html)
+- I follow the user story given by [Devchallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+- I learn the importance of start any design in the mobile version. Mobile-First!!! 😎
+- No matter when do you start, the important thing is starting.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Features
 
